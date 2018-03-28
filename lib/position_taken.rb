@@ -3,7 +3,6 @@
 def position_taken?(board, index)
   position = board[index]
   position != " " || position != "" || position != nil
-  end
 end
 
 
